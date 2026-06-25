@@ -81,5 +81,5 @@ I am open to discussions regarding backend engineering roles, full-stack project
 
 *   **Location:** Mumbai, Maharashtra, India
 *   **GitHub:** [github.com/Abhinay-Tiwari01](https://github.com/Abhinay-Tiwari01)
-*   **LinkedIn:** [Add Your LinkedIn URL Here]
-*   **Email:** [your-email@example.com]
+*   **LinkedIn:** [www.linkedin.com/in/abhinay-tiwari-87a010195]
+*   **Email:** [tabhinay3@gmail.com]
