@@ -1,246 +1,85 @@
-# 👨‍💻 Abhinay Tiwari - Portfolio
+# Portfolio | Abhinay Tiwari
 
-Welcome to my personal portfolio website.
-
-This portfolio showcases my projects, technical skills, professional experience, and journey as a Java Backend Developer and Full-Stack Enthusiast.
-
-## 🚀 About Me
-
-Hello, I'm **Abhinay Tiwari**.
-
-I am a passionate developer who enjoys building scalable backend systems, responsive web applications, and user-friendly digital experiences.
-
-I specialize in:
-
-* Java Development
-* Spring Boot
-* REST APIs
-* SQL & Database Management
-* Frontend Development
-* Problem Solving
-* Software Testing
-
-I am a fast learner who enjoys exploring new technologies and adapting to different development environments.
+Welcome to my personal portfolio. I am a Java Backend Developer and Full-Stack Enthusiast focused on building scalable backend architectures, robust RESTful APIs, and efficient organization management systems.
 
 ---
 
-## 💼 Professional Experience
+## Technical Profile
+
+I specialize in Java-based enterprise development, relational database management, and responsive frontend integrations. My core competency lies in translating complex business workflows into clean, maintainable code.
+
+*   **Backend Development:** Java, Spring Boot, Spring Data JPA, OOP Architecture, REST API Design
+*   **Database Technologies:** SQL, Microsoft SQL Server, Database Design, Stored Procedures, Crystal Reports
+*   **Frontend Development:** JavaScript, React.js, Angular, HTML5, CSS3, Bootstrap, Thymeleaf
+*   **Tools & Build Systems:** IntelliJ IDEA, VS Code, Git, GitHub, Maven, Postman
+
+---
+
+## Professional Experience
 
 ### Web Application & Desktop Support Engineer
-
 **PSM Softtech Pvt. Ltd.**
-
-* Provided backend technical support for Java-based web and desktop applications.
-* Coordinated with developers to identify and resolve application issues.
-* Managed Microsoft SQL Server databases.
-* Generated reports using Crystal Reports.
-* Supported software demonstrations and client communication.
-* Assisted in system maintenance and performance improvements.
+*   Provided Tier-2 backend technical support for Java-based enterprise web and desktop applications.
+*   Collaborated directly with core engineering teams to isolate, debug, and resolve production application issues.
+*   Managed and optimized Microsoft SQL Server databases, writing complex queries and stored procedures.
+*   Engineered automated data reporting pipelines utilizing Crystal Reports.
+*   Facilitated technical software demonstrations and technical client communications during onboarding.
 
 ### Manual Tester
-
-**Kishoo (Startup Company)**
-
-* Performed manual testing of web applications.
-* Created and executed test cases.
-* Reported and verified software defects.
-* Collaborated with developers to improve software quality.
+**Kishoo (Startup)**
+*   Executed end-to-end manual testing for web applications to ensure cross-browser compatibility and functional alignment.
+*   Authored comprehensive test plans, test cases, and defect reports.
+*   Worked closely with development teams within an Agile framework to verify bug fixes and track regressions.
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-### Backend Development
+### ServerVault
+A secure enterprise-ready web application handling robust authentication, data persistence, and administrative controls.
+*   **Architecture:** Spring Boot, Java, SQL, HTML, CSS, JavaScript
+*   **Key Features:** Secure user authentication, decoupled REST API design, relational schema integration.
+*   **Repository:** [github.com/Abhinay-Tiwari01/ServerVault](https://github.com/Abhinay-Tiwari01/ServerVault)
 
-* Java
-* Spring Boot
-* REST API Development
-* OOP Concepts
+### PSM New Exes Portal
+An automated software deployment and cloud-based distribution platform built to streamline release management.
+*   **Architecture:** JavaScript, Google Drive API, Netlify
+*   **Key Features:** Real-time Google Drive synchronization, automated asset deployment, secure file distribution.
+*   **Repository:** [github.com/Abhinay-Tiwari01/psm-new-exes-portal](https://github.com/Abhinay-Tiwari01/psm-new-exes-portal)
 
-### Frontend Development
+### SpringBoot CRUD & User Management System
+A full-stack administrative dashboard built for high-throughput record management.
+*   **Architecture:** Spring Boot, Spring Data JPA, Thymeleaf, Bootstrap, SQL
+*   **Key Features:** Full CRUD implementation, dynamic server-side rendering with Thymeleaf, user registration, and secure admin control panels.
+*   **Repository:** [github.com/Abhinay-Tiwari01/LoginPage](https://github.com/Abhinay-Tiwari01/LoginPage)
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Angular
+### Recipe Finder
+A modern, asynchronous single-page application (SPA) for real-time recipe discovery.
+*   **Architecture:** React.js, JavaScript, Third-Party REST APIs
+*   **Key Features:** Dynamic debounced search, state-driven popup modals, component-driven UI.
+*   **Repository:** [github.com/Abhinay-Tiwari01/recipe-finder-react](https://github.com/Abhinay-Tiwari01/recipe-finder-react)
 
-### Database Technologies
-
-* SQL
-* Microsoft SQL Server
-* Database Design
-* Stored Procedures
-* Crystal Reports
-
-### Tools & Technologies
-
-* IntelliJ IDEA
-* Visual Studio Code
-* Git & GitHub
-* Postman
-* Bootstrap
-* Maven
+### The Vault Of Memories
+A client-side personal digital journal featuring state persistence.
+*   **Architecture:** HTML5, CSS3, JavaScript, Bootstrap
+*   **Key Features:** Local storage data persistence, advanced search filters, multimedia attachments.
+*   **Repository:** [github.com/Abhinay-Tiwari01/TheVaultOfMemories](https://github.com/Abhinay-Tiwari01/TheVaultOfMemories)
 
 ---
 
-## 🎓 Education
+## Education & Certifications
 
-### Spring Boot & Core Java Certification
-
-Completed in January 2026
-
-### Bachelor of Science in Information Technology (B.Sc IT)
-
-Completed in 2020
-
-### Higher Secondary Certificate (HSC)
-
-Maharashtra State Board – 2017
+*   **Spring Boot & Core Java Certification** | Issued January 2026
+*   **Bachelor of Science in Information Technology (B.Sc IT)** | Graduated 2020
+*   **Higher Secondary Certificate (HSC)** | Maharashtra State Board, 2017
 
 ---
 
-## 📂 Featured Projects
+## Contact & Professional Networks
 
-### 📖 The Vault Of Memories
+I am open to discussions regarding backend engineering roles, full-stack projects, and system design collaborations.
 
-A browser-based personal memory journal.
-
-#### Features
-
-* Create and manage memories
-* Attach photos and videos
-* Search stored memories
-* Local storage based
-* Backend-ready architecture
-
-#### Technologies
-
-HTML, CSS, JavaScript, Bootstrap
-
-🔗 Repository:
-https://github.com/Abhinay-Tiwari01/TheVaultOfMemories
-
----
-
-### 🔐 ServerVault
-
-A secure web application for authentication and data management.
-
-#### Features
-
-* Secure user authentication
-* REST API architecture
-* SQL database integration
-* Responsive frontend
-
-#### Technologies
-
-Spring Boot, Java, SQL, HTML, CSS, JavaScript
-
-🔗 Repository:
-https://github.com/Abhinay-Tiwari01/ServerVault
-
----
-
-### 🍲 Recipe Finder React
-
-A modern recipe discovery platform.
-
-#### Features
-
-* Live recipe search
-* API integration
-* Dynamic recipe cards
-* Detailed popup views
-
-#### Technologies
-
-React.js, JavaScript, REST APIs
-
-🔗 Repository:
-https://github.com/Abhinay-Tiwari01/recipe-finder-react
-
----
-
-### 🔑 Login Page
-
-Spring Boot authentication system with CRUD operations.
-
-#### Features
-
-* User registration
-* Login system
-* Forgot password
-* Admin dashboard
-* User management
-
-#### Technologies
-
-Spring Boot, Thymeleaf, Bootstrap, SQL
-
-🔗 Repository:
-https://github.com/Abhinay-Tiwari01/LoginPage
-
----
-
-### 📊 SpringBoot CRUD
-
-A full-stack CRUD management application.
-
-#### Features
-
-* Add, edit, update, delete records
-* Dynamic Thymeleaf views
-* SQL database integration
-* Responsive Bootstrap UI
-
-#### Technologies
-
-Spring Boot, Spring Data JPA, Thymeleaf, Bootstrap
-
-🔗 Repository:
-https://github.com/Abhinay-Tiwari01/SpringBoot_CRUD
-
----
-
-### ☁️ PSM New Exes Portal
-
-Automated software deployment and distribution platform.
-
-#### Features
-
-* Google Drive synchronization
-* Automated update deployment
-* Cloud-based file distribution
-* Responsive user interface
-
-#### Technologies
-
-JavaScript, Google Drive API, Netlify
-
-🔗 Repository:
-https://github.com/Abhinay-Tiwari01/psm-new-exes-portal
-
----
-
-## 📬 Contact
-
-Interested in working together or discussing a project?
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 📍 Mumbai, Maharashtra, India
-* 💼 LinkedIn: Add Your LinkedIn URL
-* 🐙 GitHub: https://github.com/Abhinay-Tiwari01
-
----
-
-## 🌟 Career Objective
-
-To build reliable, scalable, and impactful software solutions while continuously learning and improving as a developer. I enjoy solving real-world problems through technology and contributing to meaningful projects that create value for users and businesses.
-
----
-
-### Thanks for visiting my portfolio!
-
-If you like my work, consider giving a ⭐ to the repositories you find useful.
+*   **Location:** Mumbai, Maharashtra, India
+*   **GitHub:** [github.com/Abhinay-Tiwari01](https://github.com/Abhinay-Tiwari01)
+*   **LinkedIn:** [Add Your LinkedIn URL Here]
+*   **Email:** [your-email@example.com]
