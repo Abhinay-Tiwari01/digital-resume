@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 /* ===== BASE STYLES ===== */
 body {
     padding: 0;
@@ -109,9 +111,15 @@ body.dark-mode .main .mainClass p {
     color: #e5e5e5;
 }
 
+body.dark-mode .nav .nav_text {
+    color: #e5e5e5;
+
+}
+
 body.dark-mode .navBar a {
     color: #e5e5e5;
 }
+
 
 body.dark-mode .navBar a:hover {
     background-color: #333333;
@@ -298,9 +306,18 @@ hr {
     flex-wrap: wrap;
 }
 
+.nav .nav_text {
+    padding-left: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Anton", sans-serif;
+    color: #000;
+}
+
 .nav h1 {
     padding-left: 20px;
     text-align: left;
+
 }
 
 .nav .navBar ul {
@@ -1058,6 +1075,13 @@ hr {
         gap: 15px;
     }
 
+    .main .cards .card-content {
+        width: 90%;
+        max-width: 100%;
+        height: auto;
+
+    }
+
     .main .cards img {
         width: 100%;
         max-width: 350px;
@@ -1074,6 +1098,14 @@ hr {
     .nav {
         flex-direction: column;
         gap: 15px;
+    }
+
+    .nav .nav_text {
+        padding-left: 10px;
+        text-align: center;
+        text-decoration: none;
+        font-family: "Anton", sans-serif;
+
     }
 
     .nav h1 {
